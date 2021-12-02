@@ -1,0 +1,115 @@
+<!--
+Nombre: Fedra Valeria Cervantes Mellado
+Grupo: 5AVPR
+Asignatura: DESAW
+Fecha: 1/12/2021
+Descripción: Página web, practica.
+-->
+
+
+<!DOCTYPE html>
+
+<html lang="es">
+
+    <head>
+	
+        <title>Comisiones</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="xolo.bmp">
+
+
+    </head>
+	
+	<body Bgcolor="#FCE2FD">
+	
+		<CENTER>
+		
+				<H1 style="color:#8F5493">¡COMISIONES DE DIBUJOS!</H1>
+		
+		
+			<ul class="menu">
+				
+					<h3>
+
+					 <li ><a href="u.html ">¿EN QUE CONSISTE?</a></li>
+					 <li ><a href="d.html">PRECIOS</a></li>
+					 <li ><a href="t.html">GALERIA DE IMAGENES</a></li>
+					 <li ><a href="c.html">ACERCA DE NOSOTROS</a></li>  
+
+					</h3>
+
+				</ul>
+				
+				<br>
+				
+				<h2>¡BIENVENIDO!</h2>
+				
+				<i>
+					Bienvenido a este sitio web el cuál se basa en el <br>
+					dar a conocer a la gente lo que es y que consiste <br>
+					una comición de dibujos, asi como también el <br>
+					mostrar el costo de algún boceto, coloreado, <br>
+					lineart, entre otras cosas.
+				</i>
+		</CENTER>
+		
+		
+		<u style="position:absolute;top:500px;right:440px">!SIGUEME EN MIS REDES SOCIALES¡</u>
+		
+		<a href="https://www.facebook.com/FDrix-488617235218766/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"
+		 style="position:absolute;top:550px;right:700px;width:50px;height:50px" ></a>
+	
+		
+		<a href="https://twitter.com/Ruzzky_Ranchero"> <img src="http://remerasyestampados.com/wp-content/uploads/Twitter-Download-PNG.png"
+		 style="position:absolute;top:550px;right:600px;width:50px;height:50px" ></a>
+		
+		
+		<a href="https://www.tumgir.com/fdrix"> <img src="https://iphoneros.com/wp-content/uploads/2018/12/logodetumblr2.png"
+		 style="position:absolute;top:550px;right:470px;width:50px;height:50px" ></a>
+		 
+		 <p style="position:absolute;top:600px;right:420px"> CORREO: cervantes.fedra.cbtis37@gmail.com</p>
+		
+		<img src= "fu.png" 
+		style="position:absolute;top:190px;right:1px;width:350px;height:400px" alt="furro">
+		
+		<img src= "st.png" 
+		style="position:absolute;top:190px;left:10px;width:350px;height:400px" alt="estrella">
+	</body>
+
+	
+
+	
+<html>
+
+<style>
+
+	.menu{
+		list-style: none;
+		padding: 0;
+		background-color: #CB90FB;
+		width: 100%;
+		margin: auto;
+        font-family: Gisarol;
+	}
+	.menu li{
+		display: inline-block;
+		text-align: center;
+	}
+	.menu li a{
+		text-decoration: none;
+		color: #150A42;
+		padding: 20px;
+		display: block;
+	}
+	.menu li a:hover{
+		background: #BE32BB ;
+	}
+    .contenedor{
+        max-width: 100000px;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+
+
+</style>	
