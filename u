@@ -1,0 +1,124 @@
+<!--
+Nombre: Fedra Valeria Cervantes Mellado
+Grupo: 5AVPR
+Asignatura: DESAW
+Fecha: 1/12/2021
+Descripción: Página web, practica.
+-->
+
+
+<!DOCTYPE html>
+
+<html lang="es">
+
+    <head>
+	
+        <title>Comisiones</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="">
+
+
+    </head>
+	
+	<body Bgcolor="#FCE2FD">
+	
+		<CENTER>
+		
+				<H1 style="color:#8F5493">☙¿EN QUÉ CONSISTE?❧</H1>
+		
+
+				<ul class="menu">
+				
+					<h3>
+
+					 <li ><a href="Index.html ">HOME</a></li>
+					 <li ><a href="d.html">PRECIOS</a></li>
+					 <li ><a href="t.html">GALERIA DE IMAGENES</a></li>
+					 <li ><a href="c.html">ACERCA DE NOSOTROS</a></li>  
+
+					</h3>
+
+				</ul>
+		
+		</CENTER>
+		
+			<br>
+			
+			<h3 style="color:#36218D">¿Qué son las comisiones?</h3>
+		
+			<p>
+				Para que nos entendamos, las comisiones se asemejan más <br>
+				a un trueque que a un contrato con una empresa.<br>
+				Encargas un boceto de lo que quieras que te dibujen,<br>
+				pagas al artista su comisión y en unos días tendrás el dibujo en tus manos.
+				
+			
+			</p>
+			
+			<h3 style="color:#36218D">¿Para que sirven las comisiones?</h3>
+
+			<p>
+				Bueno,las comisiones sirven para ganar dinero,<br>
+				pero ¿porque los artista piden dinero por un simple dibujo?<br>
+				Pues,hay muy buenos artista que no quieren dar su trabajo gratis,<br>
+				la razón es porque tardan horas y horas trabajando en un dibujo,<br>
+				solo para darlo gratis,y hay artistas que prefieren cobrar por sus dibujos<br>
+				para que su trabajo valga la pena.Pero hay artistas que se ganan la vida<br>
+				con comisiones,vendiendo su arte,y cuando vendes su arte,pueden comprar<br>
+				cosas para mejorar sus dibujos,como tabletas gráficas,colores etc.<br>
+				Pero hay cierta cantidad de artista que viven a base de las comisiones<br>
+				¿A que me refiero?<br>
+				Que con el dinero que ganan,pagan su condominio,comida,ropa,entre otras cosas.
+			</p>
+			
+			
+			<h3 style="position:absolute;top:210px;right:50px; color: #36218D">¿Como comprar una comisión?</h3>
+			<p style="position:absolute;top:250px;right:1px">
+				solo tienes que buscar a un artista que tenga las comisiones abiertas,<br>
+				también te tiene que gustar su estilo de dibujo.Tiene que ser un artista<br>
+				que se adapte a tus gustos y necesidades,es decir,que te guste su estilo<br>
+				de dibujo,y que tengas el suficiente dinero para el dibujo.
+			</p>
+			
+		<img src= "so.png" 
+		style="position:absolute;top:370px;right:10px;width:450px;height:500px" alt="dibujo">
+	
+	</body>
+
+	
+
+	
+<html>
+
+<style>
+
+	.menu{
+		list-style: none;
+		padding: 0;
+		background-color: #CB90FB;
+		width: 100%;
+		margin: auto;
+        font-family: Gisarol;
+	}
+	.menu li{
+		display: inline-block;
+		text-align: center;
+	}
+	.menu li a{
+		text-decoration: none;
+		color: #150A42;
+		padding: 20px;
+		display: block;
+	}
+	.menu li a:hover{
+		background: #BE32BB ;
+	}
+    .contenedor{
+        max-width: 100000px;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+
+
+</style>	
